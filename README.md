@@ -22,4 +22,5 @@ List of various, useful links saved for later
 
 #### Python
 - :notebook: [Basics of image classification with Keras](https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b)
+- :notebook: [Introduction to deep learning using Keras](https://www.learnopencv.com/deep-learning-using-keras-the-basics/)
 - :notebook: [MNIST classification using Keras](http://www.python36.com/mnist-handwritten-digits-classification-using-keras/)
