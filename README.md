@@ -6,6 +6,7 @@ List of various, useful links saved for later
 
 ### Machine Learning
 - :notebook: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+- :notebook: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 
 ### Programming
 
