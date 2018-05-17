@@ -1,6 +1,9 @@
 # [Bookmarks](https://mtszkw.github.io/Bookmarks/)
 List of various, useful links saved for later
 
+### Computer Vision
+- :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
+
 ### Machine Learning
 - :notebook: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
