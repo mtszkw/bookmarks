@@ -7,7 +7,7 @@ List of various, useful links saved for later
 ## Programming
 
 #### C++
-- :notebook: [FluentCpp](www.fluentcpp.com)
+- :notebook: [FluentCpp](https://www.fluentcpp.com)
 - :wrench: [GDB online debugger](https://www.onlinegdb.com/)
 - :wrench: [Godbolt (compiler explorer)](https://godbolt.org/)
 - :movie_camera: [Better Code: Runtime Polymorphism - Sean Parent](https://www.youtube.com/watch?v=QGcVXgEVMJg)  
