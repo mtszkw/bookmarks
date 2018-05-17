@@ -1,3 +1,6 @@
+# Bookmarks
+List of various, useful links saved for later
+
 ## Machine Learning
 - :notebook: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
