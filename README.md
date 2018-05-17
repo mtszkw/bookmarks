@@ -21,4 +21,5 @@ List of various, useful links saved for later
 - :movie_camera: [CppCon 2017: Stephen Dewhurst “Modern C++ Interfaces..."](https://www.youtube.com/watch?v=PFdWqa68LmA&feature=youtu.be)
 
 #### Python
+- :notebook: [Basics of image classification with Keras](https://towardsdatascience.com/basics-of-image-classification-with-keras-43779a299c8b)
 - :notebook: [MNIST classification using Keras](http://www.python36.com/mnist-handwritten-digits-classification-using-keras/)
