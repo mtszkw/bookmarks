@@ -1,4 +1,8 @@
-title: Bookmarks | List of various, useful links saved for later
+# Name of site (displayed in the header)
+name: Site
+
+# Short bio or description (displayed in the header)
+description: Description
 
 plugins:
   - jemoji
