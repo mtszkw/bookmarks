@@ -1,4 +1,4 @@
-# [Bookmarks](https://mtszkw.github.io/Bookmarks/)
+# [Bookmarks](https://mtszkw.github.io/saved/)
 List of various, useful links saved for later
 
 ### Computer Vision
