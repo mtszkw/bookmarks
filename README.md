@@ -6,7 +6,14 @@ List of various, useful links saved for later
 
 ### Machine Learning
 - :notebook: [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
-- :notebook: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- :notebook: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)  
+- :notebook: [SVM tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)  
+- :notebook: [SVM - understanding the math](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/)  
+- :notebook: [Understanding SVM with example code](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+
+### Mathematics
+- :notebook: [Matrix calculus for deep learning](http://explained.ai/matrix-calculus/index.html)  
+- :movie_camera: [Essence of linear algebra (3Blue1Brown)](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Programming
 
