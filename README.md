@@ -1,6 +1,12 @@
 # [Bookmarks](https://mtszkw.github.io/saved/)
 List of various, useful links saved for later
 
+### Competitive Programming
+- :notebook: [Data science tutorials on TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
+- :notebook: [Competitive Programmer's Handbook](https://cses.fi/book.html)  
+- :notebook: [Codeforces tutorials on algorithms gathered in one place](http://codeforces.com/blog/entry/13529)  
+- :notebook: [Links to various tasks grouped by algorithms or problems](http://codeforces.com/blog/entry/55274)
+
 ### Computer Vision
 - :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
 
