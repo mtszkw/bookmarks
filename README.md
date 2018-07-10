@@ -6,6 +6,9 @@ List of various, useful links saved for later
 - :notebook: [Competitive Programmer's Handbook](https://cses.fi/book.html)  
 - :notebook: [Codeforces tutorials on algorithms gathered in one place](http://codeforces.com/blog/entry/13529)  
 - :notebook: [Links to various tasks grouped by algorithms or problems](http://codeforces.com/blog/entry/55274)
+- :notebook: [Stanford: Introduction to Programming Contests](http://stanford.edu/class/cs97si/)
+- :octocat: [List of competitive programming, algorithm and data structure resources](https://github.com/lnishan/awesome-competitive-programming)
+- :octocat: [Stanford ACM-ICPC materials](https://github.com/jaehyunp/stanfordacm)
 
 ### Computer Vision
 - :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
