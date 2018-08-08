@@ -11,6 +11,8 @@ List of various, useful links saved for later
 - :octocat: [Stanford ACM-ICPC materials](https://github.com/jaehyunp/stanfordacm)
 
 ### Computer Vision
+- :notebook: [Practical problems for Computer Vision](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/Problems/)
+- :notebook: [Computer Vision: Algorithms and Applications (Szeliski)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 - :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
 
 ### Machine Learning
