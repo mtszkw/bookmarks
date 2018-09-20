@@ -1,27 +1,32 @@
 # [Bookmarks](https://mtszkw.github.io/saved/)
 List of various, useful links saved for later
 
-### Competitive Programming
-- :notebook: [Data science tutorials on TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
+### I. Competitive Programming
+##### Books and tutorials
+- :notebook: [Stanford ACM-ICPC materials](https://github.com/jaehyunp/stanfordacm)
 - :notebook: [Competitive Programmer's Handbook](https://cses.fi/book.html)  
+- :notebook: [Data science tutorials on TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/)  
 - :notebook: [Codeforces tutorials on algorithms gathered in one place](http://codeforces.com/blog/entry/13529)  
-- :notebook: [Links to various tasks grouped by algorithms or problems](http://codeforces.com/blog/entry/55274)
+- :notebook: [List of competitive programming, algorithm and data structure resources](https://github.com/lnishan/awesome-competitive-programming)
+##### Lists of problems
 - :notebook: [Stanford: Introduction to Programming Contests](http://stanford.edu/class/cs97si/)
-- :octocat: [List of competitive programming, algorithm and data structure resources](https://github.com/lnishan/awesome-competitive-programming)
-- :octocat: [Stanford ACM-ICPC materials](https://github.com/jaehyunp/stanfordacm)
+- :notebook: [Links to various tasks grouped by algorithms or problems](http://codeforces.com/blog/entry/55274)
 
 <hr/>
 
-### Computer Vision
-- :notebook: [Practical problems for Computer Vision](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/Problems/)
+### II. Computer Vision
+##### Books and tutorials
+- :movie_camera: [The Ancient Secret of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 - :notebook: [Computer Vision: Algorithms and Applications (Szeliski)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+##### Lists of problems
+- :notebook: [Practical problems for Computer Vision](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/Problems/)
+##### Other
 - :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
 
 <hr/>
 
-### Machine Learning
-- :wrench: [Model Zoo](https://modelzoo.co/)
-- :wrench: [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
+### III. Machine Learning
+##### Books and tutorials
 - :notebook: [Deep Learning textbook by Ian Goodfellow](http://www.deeplearningbook.org/)
 - :notebook: [Jason's Machine Learning 101 - slideshow](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview#slide=id.g168a3288f7_0_58)
 - :notebook: [Stanford CS 229 - useful cheatsheets for ML](https://github.com/afshinea/stanford-cs-229-machine-learning)
@@ -33,16 +38,19 @@ List of various, useful links saved for later
 - :notebook: [SVM tutorial](https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93)  
 - :notebook: [SVM - understanding the math](https://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/)  
 - :notebook: [Understanding SVM with example code](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+##### Tools
+- :wrench: [Model Zoo](https://modelzoo.co/)
+- :wrench: [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 
 <hr/>
 
-### Mathematics
+### IV. Mathematics
 - :notebook: [Matrix calculus for deep learning](http://explained.ai/matrix-calculus/index.html)  
 - :movie_camera: [Essence of linear algebra (3Blue1Brown)](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 <hr/>
 
-### Programming
+### V. Programming
 ##### C++
 - :notebook: [FluentCpp](https://www.fluentcpp.com)
 - :wrench: [GDB online debugger](https://www.onlinegdb.com/)
