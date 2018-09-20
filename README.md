@@ -20,12 +20,13 @@ List of various, useful links saved for later
 <hr/>
 
 ### Machine Learning
+- :wrench: [Model Zoo](https://modelzoo.co/)
 - :wrench: [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 - :notebook: [Deep Learning textbook by Ian Goodfellow](http://www.deeplearningbook.org/)
 - :notebook: [Jason's Machine Learning 101 - slideshow](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview#slide=id.g168a3288f7_0_58)
 - :notebook: [Stanford CS 229 - useful cheatsheets for ML](https://github.com/afshinea/stanford-cs-229-machine-learning)
 ##### Convolutional Neural Networks
-: movie_camera: [Stanford CS231n - YouTube playlist](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- :movie_camera: [Stanford CS231n - YouTube playlist](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - :notebook: [Convolutional Neural Networks for Visual Recognition (Stanford CS231n)](http://cs231n.stanford.edu/syllabus.html)
 - :notebook: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)  
 ##### Support Vector Machines
