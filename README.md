@@ -23,11 +23,15 @@ If you think that you can recommend me anything that fits to the list - go on, t
 - :movie_camera: [The Ancient Secret of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 - :notebook: [Computer Vision: Algorithms and Applications (Szeliski)](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
-##### 2.2. Lists of problems
+##### 2.2. Lists of problems/project ideas
 - :notebook: [Practical problems for Computer Vision](https://www.scss.tcd.ie/publications/book-supplements/A-Practical-Introduction-to-Computer-Vision-with-OpenCV/Problems/)
+- :notebook: [Student final project list (and explanations) from Brown CS university](https://cs.brown.edu/courses/csci1290/2011/results/final//)
 
 ##### 2.3. Other
+- :movie_camera: [Livecoding SLAM in Python by George Hotz](https://www.youtube.com/watch?v=7Hlb8YX2-W8)
+- :movie_camera: [Three View Self Calibration and 3D Reconstruction](https://www.youtube.com/watch?v=O_yAdsT8d84)
 - :notebook: [Local representation of facial features (LBP, Gabor filters)](http://what-when-how.com/face-recognition/local-representation-of-facial-features-face-image-modeling-and-representation-face-recognition-part-1/)
+
 
 <hr/>
 
@@ -52,6 +56,9 @@ If you think that you can recommend me anything that fits to the list - go on, t
 - :wrench: [Model Zoo](https://modelzoo.co/)
 - :wrench: [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
 
+##### 3.5. Other
+- :movie_camera: [Two Minute Papers - YouTube channel with science videos](https://www.youtube.com/user/keeroyz/videos)
+
 <hr/>
 
 ### 4. Mathematics
@@ -59,6 +66,9 @@ If you think that you can recommend me anything that fits to the list - go on, t
 - :notebook: [Matrix calculus for deep learning](http://explained.ai/matrix-calculus/index.html)  
 - :movie_camera: [Essence of calculus (3Blue1Brown)](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - :movie_camera: [Essence of linear algebra (3Blue1Brown)](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+##### 4.2. Tools
+- :wrench: [Mathigon - Interactive website to learn basic math topics](https://mathigon.org/)
 
 <hr/>
 
