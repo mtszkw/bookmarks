@@ -1,8 +1,11 @@
 # Name of site (displayed in the header)
-name: Site
+name: Personal list of resources for AI, programming, math and more
+
+# Site title
+title: Bookmarks
 
 # Short bio or description (displayed in the header)
-description: Description
+description: Personal list of resources for AI, programming, math and more
 
 plugins:
   - jemoji
