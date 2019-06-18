@@ -1,5 +1,10 @@
-# [Bookmarks](https://mtszkw.github.io/bookmarks/)
-List of various, useful links saved for later
+Hi,
+
+It is my __personal__ list of links to books (available online), videos, tools and tutorials for many topics that I'm interested in.  
+
+It is not said that they are the best resources in those topics. Some of them were helpful for me at some point and I think they are worth recommending, but some of them are here just because I hadn't time to read/watch them and I saved them here for later.
+
+If you think that you can recommend me anything that fits to the list - go on, thanks for that!
 
 ### 1. Competitive Programming
 ##### 1.1. Books and tutorials
